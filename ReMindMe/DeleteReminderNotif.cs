@@ -11,7 +11,7 @@ using System.Text;
 
 namespace ReMindMe
 {
-    public class DeleteReminder
+    public class DeleteReminderNotif
     {
     }
 }
