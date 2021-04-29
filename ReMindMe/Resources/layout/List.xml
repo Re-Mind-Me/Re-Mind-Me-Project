@@ -7,7 +7,12 @@
         android:id="@+id/btn_newreminder"  
         android:layout_width="match_parent"  
         android:layout_height="wrap_content"  
-        android:text="Add Reminder" />  
+        android:text="Add" />
+    <Button  
+        android:id="@+id/btn_delete"  
+        android:layout_width="match_parent"  
+        android:layout_height="wrap_content"  
+        android:text="delete" /> 
     <ListView
         android:id="@+id/txt_list"
         android:layout_width="match_parent"
