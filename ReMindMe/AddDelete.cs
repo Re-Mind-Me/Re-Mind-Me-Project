@@ -11,7 +11,7 @@ using System.Text;
 
 namespace ReMindMe
 {
-    public class ReminderList
+    public class AddDelete
     {
     }
 }
